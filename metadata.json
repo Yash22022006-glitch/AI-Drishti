@@ -1,0 +1,6 @@
+{
+  "name": "AI-DRISHTI",
+  "description": "AI-Driven Disaster Risk Intelligence & Tactical Intervention Platform with iOS/Android interface, offline AsyncStorage persistence, Redux state management, and dark mode.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
